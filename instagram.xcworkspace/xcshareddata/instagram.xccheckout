@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61F5A77F-26C4-4F32-B286-B6FBF3EB1FC1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>instagram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>778025B39E33953DF36D14D2D7DF5D2ED0E7D2FE</key>
+		<string>github.com:jish/instagram.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>instagram.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>778025B39E33953DF36D14D2D7DF5D2ED0E7D2FE</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jish/instagram.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>778025B39E33953DF36D14D2D7DF5D2ED0E7D2FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>778025B39E33953DF36D14D2D7DF5D2ED0E7D2FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>instagram</string>
+		</dict>
+	</array>
+</dict>
+</plist>
